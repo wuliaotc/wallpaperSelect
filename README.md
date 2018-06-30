@@ -5,7 +5,9 @@ Python 3.7
 pillow
 
 #教程:
-python官网下载 python 3.7  https://www.python.org/downloads/release/python-370/
+python官网下载 python 3.7  https://www.python.org/downloads/release/python-370
+
+
   windows系统:
     更新pip:cmd命令 python -m pip install --upgrade pip
     安装pillow模块: cmd命令 python -m pip intsall pillow
