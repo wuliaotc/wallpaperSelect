@@ -18,7 +18,7 @@
 >>##exts=('png','jpg','bmp')#筛选图片扩展名<br>
 >>##targetDir='F:\筛选'#筛选出的图片的输出目录(清晰度较高的)<br>
 >>##targetDir_Low='F:\筛选\low'#筛选出的图片中清晰度较低的输出目录<br>
->>###对于清晰度较低的二次元图片,建议使用waifu2x扩展分辨率<br>
+>>###对于清晰度较低的二次元图片,建议使用waifu2x扩展分辨率####项目地址:https://github.com/lltcggie/waifu2x-caffe<br>
 
 #警告:<br>
 >>##大小过大的图片会被脚本跳过,以防止图片炸弹攻击<br>
