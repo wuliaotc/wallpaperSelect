@@ -10,8 +10,8 @@ python官网下载 python 3.7  https://www.python.org/downloads/release/python-3
     更新pip:cmd命令 python -m pip install --upgrade pip
     安装pillow模块: cmd命令 python -m pip intsall pillow
 
-#用法:
-使用文本编辑器更改wallpaper.py中设置项(文本编辑器推荐使用notepad++)
+#用法:使用文本编辑器更改wallpaper.py中设置项(文本编辑器推荐使用notepad++)
+
   H_width=1920  #设备分辨率宽度
   H_length=1080 #设备分辨率长度
 
