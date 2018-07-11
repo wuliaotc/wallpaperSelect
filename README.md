@@ -8,7 +8,7 @@
 >>##python官网下载 python 3.7  https://www.python.org/downloads/release/python-370<br>
 >>##windows系统:<br>
 >>###更新pip:cmd命令 python -m pip install --upgrade pip<br>
->>###安装pillow模块: cmd命令 python -m pip intsall pillow<br>
+>>###安装pillow模块: cmd命令 python -m pip install pillow<br>
 
 #用法:使用文本编辑器更改wallpaper.py中设置项(文本编辑器推荐使用notepad++)<br>
 >>##H_width=1920#设备分辨率宽度<br>
